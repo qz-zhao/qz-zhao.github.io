@@ -49,15 +49,11 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 <div class='paper-box-text' markdown="1">
 
 **Qingzhou Zhao**,  Grégoire T. Freschet,  Tingting Tao,  Gabriel Reuben Smith,  Peng Wang,  Lingyan Hu,  Miaojun Ma,  David Johnson,  Thomas W. Crowther,  Shuijin Hu* (2024)
-**[Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547
+
+[Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547)
         
-        )**
 - Zhao, Q., Freschet, G., Tao, T., Smith, G., Wang, P., Hu, L., Ma, M., Johnson, D., Crowther, T. and Hu, S. (2024), Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition. Glob Change Biol, 30: e17547. https://doi.org/10.1111/gcb.17547
-        
-        
-- 
-</div>
-</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J.Ecol 2023</div><img src='images/2024_J.Ecol.jpg' alt="sym" width="100%"></div></div>
@@ -67,9 +63,17 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 **[Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547
         
+        
+        
+        
+        
         )**
 
 - Zhao, Q., Wang, P., Smith, G. R., Hu, L., Liu, X., Tao, T., Ma, M., Averill, C., Freschet, G. T., Crowther, T. W., & Hu, S. (2024). Nitrogen redistribution and seasonal trait fluctuation facilitate plant N conservation and ecosystem N retention. Journal of Ecology, 112, 501–513. https://doi.org/10.1111/1365-2745.14246
+        
+        
+        
+        
         
         
 - 
