@@ -144,6 +144,17 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 <br> <!-- 换行符号 -->
 
 
+# 📖 Pictures
+Here is som pictures.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<br> <!-- 换行符号 -->
 
 # 📖 Educations
 
