@@ -102,7 +102,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   <div class='paper-box-image'>
     <div>
       <div class="badge">2024 Award</div>
-      <img src='images/瑞华杯_2024.jpg' alt="sym" width="100%">
+      <img src='images/瑞华杯_2024.jpg' alt="sym" width="80%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -112,7 +112,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   <div class='paper-box-image'>
     <div>
       <div class="badge">2024 Award</div>
-      <img src='images/ISOME_2024.png' alt="sym" width="100%">
+      <img src='images/ISOME_2024.png' alt="sym" width="80%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -122,7 +122,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   <div class='paper-box-image'>
     <div>
       <div class="badge">2024 Award</div>
-      <img src='images/ICOM_2024.png' alt="sym" width="100%">
+      <img src='images/ICOM2024 - Certificate of Presentation.png' alt="sym" width="80%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -132,7 +132,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   <div class='paper-box-image'>
     <div>
       <div class="badge">2022 Award</div>
-      <img src='images/宾夕法尼亚-证书1.jpg' alt="sym" width="100%">
+      <img src='images/宾夕法尼亚-证书1.jpg' alt="sym" width="80%">
     </div>
   </div>
   <div class='paper-box-text'>
