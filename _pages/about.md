@@ -20,21 +20,32 @@ redirect_from:
 I'm a PhD candidate in the Ecosystem Ecology lab at Nanjing Agricultural University in China, and a visiting PhD at [Crowther Lab](https://crowtherlab.com/) at ETH Zurich in Switzerland. I am very fortunate to be advised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) from China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. I received my MS degree in Ecosystem Ecology in 2020 from Nanjing Agricultural University. I am currently pursuing a PhD degree and plan to graduate in June 2025.
  
 My research interest includes plant nutrient strategies, mycorrhizal fungal diversity, plant-soil interactions, and biodiversity-ecosystem functionality.
-You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_CV_20250206.pdf).
 
-[Email](mailto:qz.zhao@njau.edu.cn) / [Github](https://github.com/qz-zhao) / [Wechat](../images/wechat.jpg) 
-
+[Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
 
 Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en)
 
 
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 Qingzhou was awarded the "**Best Graduate Paper Award of Academician Li-Bo**" by International Symposium on Modern Ecology Series **(RMB 2,000)**
+
+- *2024.12*: &nbsp;🎉🎉 Qingzhou was awarded the "**Most Influential Graduate Student**" by Winfast Charity Foundation **(RMB 10,000)**
+
+- *2022.09*: &nbsp;🎉🎉 Qingzhou was awarded the "**Outstanding Participant**" in the Academic Writing and Research Skills Program by University of Pennsylvania.
+  
+- *2022.07*: &nbsp;🎉🎉 Qingzhou won the "**State Scholarship Fund**" to study at ETH Zurich in Switzerland from China Scholarship Council **(CHF 50,400, 2 years)**
+  
+- *2020.06*: &nbsp;🎉🎉 Qingzhou won the "**University President Scholarship**" for Top-notch Master Student in Nanjing Agricultural University **(RMB 30,000)**
+  
+- *2020.06*: &nbsp;🎉🎉 Qingzhou was selected the "**Excellent Master's Thesis**" and "Excellent Graduate Student" in Nanjing Agricultural University.
+  
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GCB 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
