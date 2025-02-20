@@ -119,20 +119,36 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 # 💬 Conference Talks
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J.Ecol 2023</div><img src='images/2024_J.Ecol.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISOME 13</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-***2024.12***, The 13th International Symposium On Modern Ecology (ISOME)，Yunnan, China
+***2024.12, The 13th International Symposium On Modern Ecology (ISOME)，Yunnan, China***
 </div>
 </div>
-- ***2024.12***, The 13th International Symposium On Modern Ecology (ISOME)，Yunnan, China
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICOM 12</div><img src='images/微信图片_20241112154418.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+***2024.08, The 12th International Conference on Mycorrhizas (ICOM 12), Manchester, UK***
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EGU 2023</div><img src='images/1732853592565_副本.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+***2023.04, General Assembly 2023 of the European Geosciences Union (EGU), Vienna, Austria***
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESC 2020</div><img src='images/1732853592565_副本.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+***2020.11, The 19th China Conference on Ecology, Guangzhou & Online, China***
+</div>
+</div>
   
-- ***2024.08***, The 12th International Conference on Mycorrhizas (ICOM 12), Manchester, UK
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/1736941378605_副本.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+-***2020.11, The 6th International Symposium for Young Scholars in Terrestrial Ecology, Nanjing China***
+</div>
+</div>
   
-- ***2023.04***, General Assembly 2023 of the European Geosciences Union (EGU), Vienna, Austria
-  
-- ***2020.11***, The 19th China Conference on Ecology, Guangzhou & Online, China
-  
-- ***2020.11***, The 6th International Symposium for Young Scholars in Terrestrial Ecology, Nanjing China
 
 
 
