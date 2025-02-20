@@ -1,6 +1,6 @@
 
 <h1 align="center">
-我的个人主页
+Qingzhou Zhao
 </h1>
 
 <div align="center">
