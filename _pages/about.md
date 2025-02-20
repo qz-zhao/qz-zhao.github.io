@@ -95,12 +95,14 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   
 - **2018, 2019** The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/s2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/s1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+</div>
+</div>
 
 
 # 📖 Educations
