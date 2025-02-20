@@ -17,14 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD candidate in ecosystem ecology from [College of Resources and Environmental Sciences](https://eecs.pku.edu.cn/), [Nanjing Agricultural University](https://www.njau.edu.cn/). 
-
-I am very fortunate to be advised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) of Ecosystem Ecology lab from [Nanjing Agricultural University](https://www.njau.edu.cn/). During my visiting PhD period from 2022~2024, I was advised by [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) of [Crowther Lab](https://crowtherlab.com/) from ETH Zurich, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station
-CNRS.
- .
+I'm a PhD candidate in the Ecosystem Ecology lab at Nanjing Agricultural University in China, and a visiting PhD at [Crowther Lab](https://crowtherlab.com/) at ETH Zurich in Switzerland. I am very fortunate to be advised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) from China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS.
  
 My research interest includes plant nutrient strategies, mycorrhizal fungal diversity, plant-soil interactions, and biodiversity-ecosystem functionality.
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:qz.zhao@njau.edu.cn) / [Github](https://github.com/qz-zhao) / [Wechat](../images/wechat.jpg) 
 
