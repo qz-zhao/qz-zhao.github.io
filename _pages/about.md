@@ -108,7 +108,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   <div class='paper-box-text'>
     <!-- 在此处可以添加图片描述 -->
   </div>
-
+--
   <div class='paper-box-image'>
     <div>
       <div class="badge">2024</div>
@@ -116,9 +116,9 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
     </div>
   </div>
   <div class='paper-box-text'>
-    *2024-gcb* <!-- 这里可以填写有关此奖项的描述 -->
+   <!-- 这里可以填写有关此奖项的描述 -->
   </div>
-
+--
   <div class='paper-box-image'>
     <div>
       <div class="badge">2020</div>
@@ -126,9 +126,9 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
     </div>
   </div>
   <div class='paper-box-text'>
-    *2024-gcb* <!-- 这里可以填写有关此奖项的描述 -->
+    <!-- 这里可以填写有关此奖项的描述 -->
   </div>
- 
+ --
   <div class='paper-box-image'>
     <div>
       <div class="badge">2024</div>
@@ -136,7 +136,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
     </div>
   </div>
   <div class='paper-box-text'>
-    *2024-gcb*
+    <!-- 这里可以填写有关此奖项的描述 -->
   </div>
   
 </div>
@@ -208,7 +208,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 
 # 📖 Pictures
-Here is som pictures.
+Here is some pictures.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -217,6 +217,5 @@ Here is som pictures.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<br> <!-- 换行符号 -->
 
 
