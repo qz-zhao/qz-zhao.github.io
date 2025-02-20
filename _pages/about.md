@@ -96,7 +96,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 - **2018, 2019** The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
 
 
-<!-- 添加图片部分 -->
+<!-- 图片部分不换行，确保每个奖项图片和描述能在同一行显示 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -105,14 +105,11 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
     </div>
   </div>
   <div class='paper-box-text'>
-    <!-- 在此处可以添加图片描述 -->
+    <!-- 这里可以填写有关此奖项的描述 -->
+    *ISOME 2020 Conference image*  
   </div>
 </div>
 
-<!-- 添加换行，确保后面的内容不受影响 -->
-<br>
-
-<!-- 再添加更多奖项时，继续使用类似的结构 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -122,10 +119,25 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   </div>
   <div class='paper-box-text'>
     <!-- 这里可以填写有关此奖项的描述 -->
+    *GCB 2024 image*
   </div>
 </div>
 
-<br> <!-- 换行 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">2024</div>
+      <img src='images/ICOM12_2.png' alt="GCB 2024 image" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <!-- 这里可以填写有关此奖项的描述 -->
+    *ICOM 12 image*
+  </div>
+</div>
+
+<!-- 在这里加一个换行符号，确保图片部分结束后，教育背景栏不受影响 -->
+<br>
 
 
 # 📖 Educations
