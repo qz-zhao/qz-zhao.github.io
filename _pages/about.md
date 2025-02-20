@@ -21,13 +21,11 @@ redirect_from:
 
 I'm a PhD candidate in the Ecosystem Ecology lab at Nanjing Agricultural University in China, and a visiting PhD at [Crowther Lab](https://crowtherlab.com/) at ETH Zurich in Switzerland. I am very fortunate to be advised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) from China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. 
 
-I received my MS degree in Ecosystem Ecology in 2020 from Nanjing Agricultural University. I am currently pursuing a PhD degree and plan to graduate in June 2025.
+I received my MS degree in Ecosystem Ecology in 2020 at Nanjing Agricultural University. I am currently pursuing my PhD degree and plan to graduate in June 2025.
  
 My **research interest** includes plant nutrient strategies, mycorrhizal fungal diversity, plant-soil interactions, and biodiversity-ecosystem functionality.
 
-You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_CV_20250206.pdf).
-
-[Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
+You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_CV_20250206.pdf). My [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
 
 Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en)
 
@@ -39,13 +37,13 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 - *2024.12*: &nbsp;🎉🎉 Qingzhou was awarded the "**Most Influential Graduate Student**" by Winfast Charity Foundation **(RMB 10,000)**
 
-- *2022.09*: &nbsp;🎉🎉 Qingzhou was awarded the "**Outstanding Participant**" in the Academic Writing and Research Skills Program by University of Pennsylvania.
+- *2022.09*: &nbsp;🎉🎉 Qingzhou was awarded the "**Outstanding Participant**" in the Academic Writing and Research Skills Program by University of Pennsylvania **(RMB 17,600)**
   
-- *2022.07*: &nbsp;🎉🎉 Qingzhou won the "**State Scholarship Fund**" to study at ETH Zurich in Switzerland from China Scholarship Council **(CHF 50,400, 2 years)**
+- *2022.07*: &nbsp;🎉🎉 Qingzhou won the "**State Scholarship Fund**" to study in Switzerland from China Scholarship Council **(CHF 50,400, 2 years)**
   
 - *2020.06*: &nbsp;🎉🎉 Qingzhou won the "**University President Scholarship**" for Top-notch Master Student in Nanjing Agricultural University **(RMB 30,000)**
   
-- *2020.06*: &nbsp;🎉🎉 Qingzhou was selected the "**Excellent Master's Thesis**" and "Excellent Graduate Student" in Nanjing Agricultural University.
+- *2020.06*: &nbsp;🎉🎉 Qingzhou won the "**Excellent Master's Thesis**" and "Excellent Graduate Student" award in Nanjing Agricultural University
   
 <br> <!-- 换行符号 -->
 
@@ -82,23 +80,23 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 # 🏆 Honors and Awards
 
-- **2024.12**   Best Graduate Paper Award of Academician Li-Bo. International Symposium on Modern Ecology Series (RMB 2,000)
+- **2024.12,**   Best Graduate Paper Award of Academician Li-Bo. International Symposium on Modern Ecology Series (RMB 2,000)
   
-- **2024.12**   The Most Influential Graduate Student. Winfast Charity Foundation (RMB 10,000)
+- **2024.12,**   The Most Influential Graduate Student. Winfast Charity Foundation (RMB 10,000)
   
-- **2022.07**   State Scholarship Fund to study in Switzerland. CSC (CHF 50,400, 2 years)
+- **2022.07,**   State Scholarship Fund to study in Switzerland. CSC (CHF 50,400, 2 years)
   
-- **2020, 2021** The Second Prize Scholarship for Ph.D. Student. NAU (RMB 15,000 /year)
+- **2020, 2021,** The Second Prize Scholarship for Ph.D. Student. NAU (RMB 15,000 /year)
   
-- **2020.06**   University President Scholarship for Top-notch Master Student. NAU, (RMB 30,000)
+- **2020.06,**   University President Scholarship for Top-notch Master Student. NAU, (RMB 30,000)
   
-- **2020.06**   Excellent Master's Thesis; Excellent Graduate Student. NAU
+- **2020.06,**   Excellent Master's Thesis; Excellent Graduate Student. NAU
   
-- **2019.12**   Outstanding Poster, The 18th Conference of Ecological Society of China. ESC
+- **2019.12,**   Outstanding Poster, The 18th Conference of Ecological Society of China. ESC
   
-- **2019.09**   Wu Yi-Wen Scholarship. Education Development Foundation of NAU (RMB 5,000)
+- **2019.09,**   Wu Yi-Wen Scholarship. Education Development Foundation of NAU (RMB 5,000)
   
-- **2018, 2019** The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
+- **2018, 2019,** The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
 
 <!-- 添加图片部分 -->
 <div class='paper-box'>
