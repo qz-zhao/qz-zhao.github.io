@@ -48,7 +48,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GCB 2024</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Qingzhou Zhao**,  Grégoire T. Freschet,  Tingting Tao,  Gabriel Reuben Smith,  Peng Wang,  Lingyan Hu,  Miaojun Ma,  David Johnson,  Thomas W. Crowther,  Shuijin Hu* (2024). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547). Glob Change Biol, 30: e17547. https://doi.org/10.1111/gcb.17547
+**Qingzhou Zhao**,  Grégoire T. Freschet,  Tingting Tao,  Gabriel Reuben Smith,  Peng Wang,  Lingyan Hu,  Miaojun Ma,  David Johnson,  Thomas W. Crowther,  Shuijin Hu (2024). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547). Glob Change Biol, 30: e17547. https://doi.org/10.1111/gcb.17547
 
         
 </div>
@@ -58,11 +58,28 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J.Ecol 2023</div><img src='images/2024_J.Ecol.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Qingzhou Zhao**,  Peng Wang,  Gabriel Reuben Smith,  Lingyan Hu,  Xupeng Liu,  Tingting Tao,  Miaojun Ma,  Colin Averill,  Grégoire T. Freschet,  Thomas W. Crowther,  Shuijin Hu* (2023). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547). Journal of Ecology, 112, 501–513. https://doi.org/10.1111/1365-2745.14246
+**Qingzhou Zhao**,  Peng Wang,  Gabriel Reuben Smith,  Lingyan Hu,  Xupeng Liu,  Tingting Tao,  Miaojun Ma,  Colin Averill,  Grégoire T. Freschet,  Thomas W. Crowther,  Shuijin Hu (2023). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547). Journal of Ecology, 112, 501–513. https://doi.org/10.1111/1365-2745.14246
 
 
 </div>
 </div>
+
+
+- **Qingzhou Zhao**, Gregoire Freschet, Tingting Tao, Gabriel Reuben Smith, Peng Wang, Lingyan Hu, Miaojun Ma, David Johnson, Thomas Crowther, Shuijin Hu (**2024**). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition. Global Change Biology](https://doi.org/10.1111/gcb.17547) https://doi.org/10.1111/gcb.17547
+
+- **Qingzhou Zhao**, Peng Wang, Gabriel Reuben Smith, Lingyan Hu, Xupeng Liu, Tingting Tao, Miaojun Ma, Colin Averill, Gregoire Freschet, Thomas Crowther, Shuijin Hu (**2024**). [Nitrogen redistribution and seasonal trait fluctuation facilitate plant N conservation and ecosystem N retention](https://doi.org/10.1111/1365-2745.14246). Journal of Ecology. https://doi.org/10.1111/1365-2745.14246 
+
+- **Qingzhou Zhao**, Jin Guo, Meng Shu, Peng Wang, Shuijin Hu (**2020**) [Impacts of drought and nitrogen enrichment on leaf N resorption and root nutrient allocation in four Tibetan plant species](https://doi.org/10.1016/j.scitotenv.2020.138106 ). Science of The Total Environment https://doi.org/10.1016/j.scitotenv.2020.138106 
+
+- Gabriel R. Smith, ..., **Qingzhou Zhao**, Constantin M. Zohner, Thomas W. Crowther  (**2024**) [Ten simple rules for using large language models in science, version 1.0. PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1011767). 20, e1011767. https://doi.org/10.1371/journal.pcbi.1011767 
+
+- Peng Wang, Jin Guo, ..., **Qingzhou Zhao**, Kailing Huang, Xi Luo, Fei Yang, Hui Guo, Shuijin Hu. (**2020**). [Soil acidification alters root morphology, increases root biomass but reduces root decomposition in an alpine grassland](https://doi.org/10.1371/journal.pcbi.1011767). Environmental Pollution 265, 115016. https://doi.org/10.1016/j.envpol.2020.115016 
+
+- Meng Shu, **Qingzhou Zhao**, Zhen Li, Lin Zhang, Peng Wang, Shuijin Hu. (**2019**). [Effects of global change factors and living roots on root litter decomposition in a Qinghai-Tibet alpine meadow](https://doi.org/10.1038/s41598-019-53450-5). Scientific reports. https://doi.org/10.1038/s41598-019-53450-5 
+
+- Peng Wang, Yan Yang, Pu Mou, **Qingzhou Zhao**, Yunbin Li (**2018**) [Local root growth and death are mediated by contrasts in nutrient availability and root quantity between soil patches](https://doi.org/10.1098/rspb.2018.0699). Proceedings of the Royal Society B: Biological Sciences. https://doi.org/10.1098/rspb.2018.0699
+
+
 
 
 # 🎖 Honors and Awards
