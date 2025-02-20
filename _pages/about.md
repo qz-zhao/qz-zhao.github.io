@@ -25,7 +25,7 @@ I received my MS degree in Ecosystem Ecology in 2020 at Nanjing Agricultural Uni
  
 My **research interest** includes plant nutrient strategies, mycorrhizal fungal diversity, plant-soil interactions, and biodiversity-ecosystem functionality.
 
-You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_CV_20250206.pdf). My [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
+You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_CV_20250220.pdf). My [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
 
 Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en)
 
@@ -52,7 +52,9 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GCB 2024</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Qingzhou Zhao**,  Grégoire T. Freschet,  Tingting Tao,  Gabriel Reuben Smith,  Peng Wang,  Lingyan Hu,  Miaojun Ma,  David Johnson,  Thomas W. Crowther,  Shuijin Hu (**2024**). 
-[Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547/). **Global Change Biology**, 30: e17547. 
+[Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547/)
+        
+        . **Global Change Biology**, 30: e17547. 
 </div>
 </div>
 
@@ -62,9 +64,17 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 </div>
 </div>
 
-- **Qingzhou Zhao**, Gregoire Freschet, Tingting Tao, Gabriel Reuben Smith, Peng Wang, Lingyan Hu, Miaojun Ma, David Johnson, Thomas Crowther, Shuijin Hu (**2024**). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547/). **Global Change Biology**. https://doi.org/10.1111/gcb.17547
+- **Qingzhou Zhao**, Gregoire Freschet, Tingting Tao, Gabriel Reuben Smith, Peng Wang, Lingyan Hu, Miaojun Ma, David Johnson, Thomas Crowther, Shuijin Hu (**2024**). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547/
+        
+        ). **Global Change Biology**. https://doi.org/10.1111/gcb.17547
+        
+        
   
-- **Qingzhou Zhao**, Peng Wang, Gabriel Reuben Smith, Lingyan Hu, Xupeng Liu, Tingting Tao, Miaojun Ma, Colin Averill, Gregoire Freschet, Thomas Crowther, Shuijin Hu (**2024**). [Nitrogen redistribution and seasonal trait fluctuation facilitate plant N conservation and ecosystem N retention](https://doi.org/10.1111/1365-2745.14246/). **Journal of Ecology**. https://doi.org/10.1111/1365-2745.14246
+- **Qingzhou Zhao**, Peng Wang, Gabriel Reuben Smith, Lingyan Hu, Xupeng Liu, Tingting Tao, Miaojun Ma, Colin Averill, Gregoire Freschet, Thomas Crowther, Shuijin Hu (**2024**). [Nitrogen redistribution and seasonal trait fluctuation facilitate plant N conservation and ecosystem N retention](https://doi.org/10.1111/1365-2745.14246/
+        
+        ). **Journal of Ecology**. https://doi.org/10.1111/1365-2745.14246
+        
+        
   
 - **Qingzhou Zhao**, Jin Guo, Meng Shu, Peng Wang, Shuijin Hu (**2020**) [Impacts of drought and nitrogen enrichment on leaf N resorption and root nutrient allocation in four Tibetan plant species](https://doi.org/10.1016/j.scitotenv.2020.138106/). **Science of The Total Environment**. https://doi.org/10.1016/j.scitotenv.2020.138106
   
