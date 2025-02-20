@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qingzhou Zhao"
-description              : "PhD candidate in Ecosystem Ecology."
+description              : "Nanjing Agricultural University"
 repository               : "qz-zhao/qz-zhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qingzhou Zhao"
   avatar           : "images/512.512.jpg"
-  bio              : "Nanjing Agricultural University"
+  bio              : "PhD candidate in Ecosystem Ecology"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
