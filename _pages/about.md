@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🗨️ About Qingzhou
+# 💬 About Qingzhou
 
 I'm a PhD candidate in the Ecosystem Ecology lab at Nanjing Agricultural University in China, and a visiting PhD at [Crowther Lab](https://crowtherlab.com/) at ETH Zurich in Switzerland. I am very fortunate to be advised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) from China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. I received my MS degree in Ecosystem Ecology in 2020 from Nanjing Agricultural University. I am currently pursuing a PhD degree and plan to graduate in June 2025.
  
