@@ -50,6 +50,9 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 **Qingzhou Zhao**,  Grégoire T. Freschet,  Tingting Tao,  Gabriel Reuben Smith,  Peng Wang,  Lingyan Hu,  Miaojun Ma,  David Johnson,  Thomas W. Crowther,  Shuijin Hu* (2024). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547). Glob Change Biol, 30: e17547. https://doi.org/10.1111/gcb.17547
 
+        
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J.Ecol 2023</div><img src='images/2024_J.Ecol.jpg' alt="sym" width="100%"></div></div>
@@ -58,6 +61,8 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 **Qingzhou Zhao**,  Peng Wang,  Gabriel Reuben Smith,  Lingyan Hu,  Xupeng Liu,  Tingting Tao,  Miaojun Ma,  Colin Averill,  Grégoire T. Freschet,  Thomas W. Crowther,  Shuijin Hu* (2023). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547). Journal of Ecology, 112, 501–513. https://doi.org/10.1111/1365-2745.14246
 
 
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
