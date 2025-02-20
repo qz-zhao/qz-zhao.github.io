@@ -47,52 +47,97 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GCB 2024</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547)
-[**2024, Global Change Biology**](https://doi.org/10.1111/gcb.17547/) 
 **Qingzhou Zhao**,  Grégoire T. Freschet,  Tingting Tao,  Gabriel Reuben Smith,  Peng Wang,  Lingyan Hu,  Miaojun Ma,  David Johnson,  Thomas W. Crowther,  Shuijin Hu (2024)
 </div>
 </div>
+[Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547/)
+        
+        
+</div>
+</div>
+**2024, Global Change Biology, 30: e17547**. https://doi.org/10.1111/gcb.17547
+        
+        
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J.Ecol 2023</div><img src='images/2024_J.Ecol.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Qingzhou Zhao**,  Peng Wang,  Gabriel Reuben Smith,  Lingyan Hu,  Xupeng Liu,  Tingting Tao,  Miaojun Ma,  Colin Averill,  Grégoire T. Freschet,  Thomas W. Crowther,  Shuijin Hu (2023). [Nitrogen redistribution and seasonal trait fluctuation facilitate plant N conservation and ecosystem N retention](https://doi.org/10.1111/1365-2745.14246/). Journal of Ecology, 112, 501–513. https://doi.org/10.1111/1365-2745.14246
+**Qingzhou Zhao**,  Peng Wang,  Gabriel Reuben Smith,  Lingyan Hu,  Xupeng Liu,  Tingting Tao,  Miaojun Ma,  Colin Averill,  Grégoire T. Freschet,  Thomas W. Crowther,  Shuijin Hu (2023). 
+</div>
+</div>
+[Nitrogen redistribution and seasonal trait fluctuation facilitate plant N conservation and ecosystem N retention](https://doi.org/10.1111/1365-2745.14246/)
+        
+        . 
+</div>
+</div>
+2023, Journal of Ecology, 112, 501–513
 </div>
 </div>
 
-- **Qingzhou Zhao**, Gregoire Freschet, Tingting Tao, Gabriel Reuben Smith, Peng Wang, Lingyan Hu, Miaojun Ma, David Johnson, Thomas Crowther, Shuijin Hu (**2024**). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition. Global Change Biology](https://doi.org/10.1111/gcb.17547/) https://doi.org/10.1111/gcb.17547
+- **Qingzhou Zhao**, Gregoire Freschet, Tingting Tao, Gabriel Reuben Smith, Peng Wang, Lingyan Hu, Miaojun Ma, David Johnson, Thomas Crowther, Shuijin Hu (**2024**). [Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition. Global Change Biology](https://doi.org/10.1111/gcb.17547/
+        
+        ) https://doi.org/10.1111/gcb.17547
+        
+        
 
-- **Qingzhou Zhao**, Peng Wang, Gabriel Reuben Smith, Lingyan Hu, Xupeng Liu, Tingting Tao, Miaojun Ma, Colin Averill, Gregoire Freschet, Thomas Crowther, Shuijin Hu (**2024**). [Nitrogen redistribution and seasonal trait fluctuation facilitate plant N conservation and ecosystem N retention](https://doi.org/10.1111/1365-2745.14246/). Journal of Ecology. https://doi.org/10.1111/1365-2745.14246
+- **Qingzhou Zhao**, Peng Wang, Gabriel Reuben Smith, Lingyan Hu, Xupeng Liu, Tingting Tao, Miaojun Ma, Colin Averill, Gregoire Freschet, Thomas Crowther, Shuijin Hu (**2024**). [Nitrogen redistribution and seasonal trait fluctuation facilitate plant N conservation and ecosystem N retention](https://doi.org/10.1111/1365-2745.14246/
+        
+        ). Journal of Ecology. https://doi.org/10.1111/1365-2745.14246
+        
+        
 
-- **Qingzhou Zhao**, Jin Guo, Meng Shu, Peng Wang, Shuijin Hu (**2020**) [Impacts of drought and nitrogen enrichment on leaf N resorption and root nutrient allocation in four Tibetan plant species](https://doi.org/10.1016/j.scitotenv.2020.138106/). Science of The Total Environment https://doi.org/10.1016/j.scitotenv.2020.138106
+- **Qingzhou Zhao**, Jin Guo, Meng Shu, Peng Wang, Shuijin Hu (**2020**) [Impacts of drought and nitrogen enrichment on leaf N resorption and root nutrient allocation in four Tibetan plant species](https://doi.org/10.1016/j.scitotenv.2020.138106/
+        
+        ). Science of The Total Environment https://doi.org/10.1016/j.scitotenv.2020.138106
+        
+        
 
-- Gabriel R. Smith, ..., **Qingzhou Zhao**, Constantin M. Zohner, Thomas W. Crowther  (**2024**) [Ten simple rules for using large language models in science, version 1.0. PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1011767/). 20, e1011767. https://doi.org/10.1371/journal.pcbi.1011767
+- Gabriel R. Smith, ..., **Qingzhou Zhao**, Constantin M. Zohner, Thomas W. Crowther  (**2024**) [Ten simple rules for using large language models in science, version 1.0. PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1011767/
+        
+        ). 20, e1011767. https://doi.org/10.1371/journal.pcbi.1011767
+        
+        
 
-- Peng Wang, Jin Guo, ..., **Qingzhou Zhao**, Kailing Huang, Xi Luo, Fei Yang, Hui Guo, Shuijin Hu. (**2020**). [Soil acidification alters root morphology, increases root biomass but reduces root decomposition in an alpine grassland](https://doi.org/10.1371/journal.pcbi.1011767/). Environmental Pollution 265, 115016. https://doi.org/10.1016/j.envpol.2020.115016
+- Peng Wang, Jin Guo, ..., **Qingzhou Zhao**, Kailing Huang, Xi Luo, Fei Yang, Hui Guo, Shuijin Hu. (**2020**). [Soil acidification alters root morphology, increases root biomass but reduces root decomposition in an alpine grassland](https://doi.org/10.1371/journal.pcbi.1011767/
+        
+        ). Environmental Pollution 265, 115016. https://doi.org/10.1016/j.envpol.2020.115016
+        
+        
 
-- Meng Shu, **Qingzhou Zhao**, Zhen Li, Lin Zhang, Peng Wang, Shuijin Hu. (**2019**). [Effects of global change factors and living roots on root litter decomposition in a Qinghai-Tibet alpine meadow](https://doi.org/10.1038/s41598-019-53450-5/). Scientific reports. https://doi.org/10.1038/s41598-019-53450-5 
+- Meng Shu, **Qingzhou Zhao**, Zhen Li, Lin Zhang, Peng Wang, Shuijin Hu. (**2019**). [Effects of global change factors and living roots on root litter decomposition in a Qinghai-Tibet alpine meadow](https://doi.org/10.1038/s41598-019-53450-5/
+        
+        ). Scientific reports. https://doi.org/10.1038/s41598-019-53450-5
+        
+         
 
-- Peng Wang, Yan Yang, Pu Mou, **Qingzhou Zhao**, Yunbin Li (**2018**) [Local root growth and death are mediated by contrasts in nutrient availability and root quantity between soil patches](https://doi.org/10.1098/rspb.2018.0699/). Proceedings of the Royal Society B: Biological Sciences. https://doi.org/10.1098/rspb.2018.0699
+- Peng Wang, Yan Yang, Pu Mou, **Qingzhou Zhao**, Yunbin Li (**2018**) [Local root growth and death are mediated by contrasts in nutrient availability and root quantity between soil patches](https://doi.org/10.1098/rspb.2018.0699/
+        
+        ). Proceedings of the Royal Society B: Biological Sciences. https://doi.org/10.1098/rspb.2018.0699
+        
+        
 
 
 
 
 # 🎖 Honors and Awards
-- 2024.12   Best Graduate Paper Award of Academician Li-Bo. International Symposium on Modern Ecology Series (RMB 2,000)
+- **2024.12**   Best Graduate Paper Award of Academician Li-Bo. International Symposium on Modern Ecology Series (RMB 2,000)
   
-- 2024.12   The Most Influential Graduate Student. Winfast Charity Foundation (RMB 10,000)
+- **2024.12**   The Most Influential Graduate Student. Winfast Charity Foundation (RMB 10,000)
   
-- 2022.07   State Scholarship Fund to study in Switzerland. CSC (CHF 50,400, 2 years)
+- **2022.07**   State Scholarship Fund to study in Switzerland. CSC (CHF 50,400, 2 years)
   
-- 2020, 2021 The Second Prize Scholarship for Ph.D. Student. NAU (RMB 15,000 /year)
+- **2020, 2021** The Second Prize Scholarship for Ph.D. Student. NAU (RMB 15,000 /year)
   
-- 2020.06   University President Scholarship for Top-notch Master Student. NAU, (RMB 30,000)
+- **2020.06**   University President Scholarship for Top-notch Master Student. NAU, (RMB 30,000)
   
-- 2020.06   Excellent Master's Thesis; Excellent Graduate Student. NAU
+- **2020.06**   Excellent Master's Thesis; Excellent Graduate Student. NAU
   
-- 2019.12   Outstanding Poster, The 18th Conference of Ecological Society of China. ESC
+- **2019.12**   Outstanding Poster, The 18th Conference of Ecological Society of China. ESC
   
-- 2019.09   Wu Yi-Wen Scholarship. Education Development Foundation of NAU (RMB 5,000)
+- **2019.09**   Wu Yi-Wen Scholarship. Education Development Foundation of NAU (RMB 5,000)
   
-- 2018, 2019 The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
+- **2018, 2019** The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
 
 
 
@@ -104,7 +149,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   
 - ***2017.09 – 2020.09*** MSc in Ecosystem Ecology, Nanjing Agricultural University, College of Resources and Environmental Sciences (Supervisor: [Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en))
   
-- *2012.09 – 2016.09* Bachelor of Science in Agriculture with a specialization in Plant Protection at Hainan University, College of Tropical Crops 
+- ***2012.09 – 2016.09*** Bachelor of Science in Agriculture with a specialization in Plant Protection at Hainan University, College of Tropical Crops 
 
 
 # 💬 Conference Talks
@@ -121,11 +166,11 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 
 # 💻 Research Experiences
-- *2022.09-2024.09* Processing large-scale datasets from TRY, GBIF, GRooT and others using R
+- ***2022.09-2024.09*** Processing large-scale datasets from TRY, GBIF, GRooT and others using R
   
-- *2020.05-2022.09* Utilizing stable isotopes to explore plant-soil C and N dynamics
+- ***2020.05-2022.09*** Utilizing stable isotopes to explore plant-soil C and N dynamics
   
-- *2017.03-2022.09* Physical & chemical analysis and application of cutting-edge scientific instruments (IRMS, ICP-OES, TOC analyzer, Elemental Analyzer, SEAL AA3, FTIR spectra, WinRHIZO)
+- ***2017.03-2022.09*** Physical & chemical analysis and application of cutting-edge scientific instruments (IRMS, ICP-OES, TOC analyzer, Elemental Analyzer, SEAL AA3, FTIR spectra, WinRHIZO)
 
 
 
