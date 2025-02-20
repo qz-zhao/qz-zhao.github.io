@@ -75,85 +75,6 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 
 
-  <style>
-  /* 设置容器为flex布局，使图片在一行内显示 */
-  .honors-container {
-    display: flex; /* 启用Flex布局 */
-    justify-content: space-between; /* 奖项之间有间距 */
-    flex-wrap: wrap; /* 屏幕小于三张图片宽度时自动换行 */
-    gap: 20px; /* 设置图片之间的间距 */
-    margin-bottom: 20px; /* 容器底部间距 */
-  }
-
-  /* 每个奖项块 */
-  .paper-box {
-    display: flex; /* 使用flex布局将图片和文本并排显示 */
-    flex: 1 1 30%; /* 每个奖项块占据容器的30%宽度 */
-    box-sizing: border-box; /* 确保图片和文字不会超出容器的边界 */
-    max-width: 30%; /* 最大宽度为30% */
-    margin-bottom: 20px; /* 每个奖项块之间的间距 */
-  }
-
-  .paper-box-image {
-    margin-right: 15px; /* 图片和文字之间的间距 */
-  }
-
-  .paper-box-text {
-    flex: 1; /* 文本部分占据剩余空间 */
-  }
-
-  .badge {
-    font-weight: bold;
-    font-size: 1.2em;
-    margin-bottom: 5px;
-  }
-
-  /* 控制图片的宽度 */
-  .paper-box-image img {
-    max-width: 100%; /* 确保图片适应容器 */
-    height: auto; /* 保持图片的比例 */
-  }
-</style>
-
-# 🏆 Honors and Awards
-
-I have received several awards during my academic journey, including scholarships and research recognitions.
-
-<!-- 奖项图片容器 -->
-<div class="honors-container">
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <div><div class="badge">2020</div>
-      <img src='images/ISOME_13.jpg' alt="ISOME 2020" width="100%"></div>
-    </div>
-    <div class='paper-box-text'>
-      **2020**: Awarded the [ISOME 2020 Conference](https://link.to) best poster presentation award. 
-    </div>
-  </div>
-
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <div><div class="badge">2024</div>
-      <img src='images/2024_GCB.jpg' alt="GCB 2024" width="100%"></div>
-    </div>
-    <div class='paper-box-text'>
-      **2024**: Received the GCB Outstanding Research Award for my work on ecosystem sustainability.
-    </div>
-  </div>
-
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <div><div class="badge">2021</div>
-      <img src='images/2021_Award.jpg' alt="Award 2021" width="100%"></div>
-    </div>
-    <div class='paper-box-text'>
-      **2021**: Won the National Scholarship for outstanding academic performance.
-    </div>
-  </div>
-</div>
-
-<br>
-
 # 🏆 Honors and Awards
 
 - **2024.12**   Best Graduate Paper Award of Academician Li-Bo. International Symposium on Modern Ecology Series (RMB 2,000)
@@ -175,6 +96,7 @@ I have received several awards during my academic journey, including scholarship
 - **2018, 2019** The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
 
 
+
 <!-- 图片部分不换行，确保每个奖项图片和描述能在同一行显示 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -185,7 +107,6 @@ I have received several awards during my academic journey, including scholarship
   </div>
   <div class='paper-box-text'>
     <!-- 这里可以填写有关此奖项的描述 -->
-    *ISOME 2020 Conference image*  
   </div>
 </div>
 
@@ -198,20 +119,6 @@ I have received several awards during my academic journey, including scholarship
   </div>
   <div class='paper-box-text'>
     <!-- 这里可以填写有关此奖项的描述 -->
-    *GCB 2024 image*
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">2024</div>
-      <img src='images/ICOM12_2.png' alt="GCB 2024 image" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text'>
-    <!-- 这里可以填写有关此奖项的描述 -->
-    *ICOM 12 image*
   </div>
 </div>
 
