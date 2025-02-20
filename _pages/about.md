@@ -97,7 +97,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 
 
-<!-- 图片部分不换行，确保每个奖项图片和描述能在同一行显示 -->
+<!-- 添加图片部分 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -106,11 +106,9 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
     </div>
   </div>
   <div class='paper-box-text'>
-    <!-- 这里可以填写有关此奖项的描述 -->
+    <!-- 在此处可以添加图片描述 -->
   </div>
-</div>
 
-<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">2024</div>
@@ -120,10 +118,29 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   <div class='paper-box-text'>
     <!-- 这里可以填写有关此奖项的描述 -->
   </div>
-</div>
 
-<!-- 在这里加一个换行符号，确保图片部分结束后，教育背景栏不受影响 -->
-<br>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">2020</div>
+      <img src='images/ISOME_13.jpg' alt="ISOME 2020 Conference image" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <!-- 这里可以填写有关此奖项的描述 -->
+  </div>
+ 
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">2024</div>
+      <img src='images/2024_GCB.jpg' alt="GCB 2024 image" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <!-- 这里可以填写有关此奖项的描述 -->
+  </div>
+  
+</div>
+<br> <!-- 换行符号 -->
 
 
 # 📖 Educations
