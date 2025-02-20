@@ -96,32 +96,36 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 - **2018, 2019** The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
 
 
+<!-- 添加图片部分 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div>
+    <div>
+      <div class="badge">2020</div>
+      <img src='images/ISOME_13.jpg' alt="ISOME 2020 Conference image" width="100%">
+    </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-    <!-- 这里可以填充文本描述 -->
-  
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div>
+  <div class='paper-box-text'>
+    <!-- 在此处可以添加图片描述 -->
   </div>
-  <div class='paper-box-text' markdown="1">
-    <!-- 这里可以填充文本描述 -->
-    
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    <!-- 这里可以填充文本描述 -->
-  </div>
-  
 </div>
 
-<!-- Add a line break to separate content without affecting layout -->
+<!-- 添加换行，确保后面的内容不受影响 -->
 <br>
+
+<!-- 再添加更多奖项时，继续使用类似的结构 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">2024</div>
+      <img src='images/2024_GCB.jpg' alt="GCB 2024 image" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <!-- 这里可以填写有关此奖项的描述 -->
+  </div>
+</div>
+
+<br> <!-- 换行 -->
 
 
 # 📖 Educations
