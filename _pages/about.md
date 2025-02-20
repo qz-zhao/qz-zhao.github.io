@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🗨️ This is Qingzhou, nice to meet you here!
 I'm a PhD candidate in the Ecosystem Ecology lab at Nanjing Agricultural University in China, and a visiting PhD at [Crowther Lab](https://crowtherlab.com/) at ETH Zurich in Switzerland. I am very fortunate to be advised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) from China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. I received my MS degree in Ecosystem Ecology in 2020 from Nanjing Agricultural University. I am currently pursuing a PhD degree and plan to graduate in June 2025.
  
 My research interest includes plant nutrient strategies, mycorrhizal fungal diversity, plant-soil interactions, and biodiversity-ecosystem functionality.
@@ -29,6 +29,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 
 # 🔥 News
+
 - *2024.12*: &nbsp;🎉🎉 Qingzhou was awarded the "**Best Graduate Paper Award of Academician Li-Bo**" by International Symposium on Modern Ecology Series **(RMB 2,000)**
 
 - *2024.12*: &nbsp;🎉🎉 Qingzhou was awarded the "**Most Influential Graduate Student**" by Winfast Charity Foundation **(RMB 10,000)**
@@ -74,7 +75,8 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
   
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
+
 - **2024.12**   Best Graduate Paper Award of Academician Li-Bo. International Symposium on Modern Ecology Series (RMB 2,000)
   
 - **2024.12**   The Most Influential Graduate Student. Winfast Charity Foundation (RMB 10,000)
@@ -93,6 +95,12 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   
 - **2018, 2019** The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/s2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/s1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 
 # 📖 Educations
@@ -122,35 +130,35 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISOME 13</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **2024.12, The 13th International Symposium On Modern Ecology (ISOME)，Yunnan, China**
-**(Oral Presentation)**
+***(Oral Presentation)***
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICOM 12</div><img src='images/ICOM12_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **2024.08, The 12th International Conference on Mycorrhizas (ICOM 12), Manchester, UK**
-  **(Oral Presentation)**
+***(Oral Presentation)***
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EGU 2023</div><img src='images/1732853592565_副本.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **2023.04, General Assembly 2023 of the European Geosciences Union (EGU), Vienna, Austria**
-**(Oral Presentation)**
+***(Oral Presentation)***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESC 2020</div><img src='images/微信图片_20200615220124.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESC 2020</div><img src='images/2018_ESC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **2020.11, The 19th China Conference on Ecology, Guangzhou & Online, China**
-**(Oral Presentation)**
+***(Oral Presentation)***
 </div>
 </div>
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/1736941378605_副本.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**2020.11, The 6th International Symposium for Young Scholars in Terrestrial Ecology, Nanjing China**
-**(Oral Presentation)**
+**2020.11, The 6th International Symposium for Young Scholars in Terrestrial Ecology, Nanjing, China**
+***(Oral Presentation)***
 </div>
 </div>
   
