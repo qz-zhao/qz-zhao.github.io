@@ -16,7 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 🗨️ This is Qingzhou, nice to meet you here!
+
+# 🗨️ About Qingzhou
+
 I'm a PhD candidate in the Ecosystem Ecology lab at Nanjing Agricultural University in China, and a visiting PhD at [Crowther Lab](https://crowtherlab.com/) at ETH Zurich in Switzerland. I am very fortunate to be advised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) from China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. I received my MS degree in Ecosystem Ecology in 2020 from Nanjing Agricultural University. I am currently pursuing a PhD degree and plan to graduate in June 2025.
  
 My research interest includes plant nutrient strategies, mycorrhizal fungal diversity, plant-soil interactions, and biodiversity-ecosystem functionality.
@@ -209,14 +211,14 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 <br> <!-- 换行符号 -->
 
 # 📖 Pictures
-Here is some pictures.
-
+Here are some random pictures.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+</div>
+</div>
 
-
-
+<br> <!-- 换行符号 -->
