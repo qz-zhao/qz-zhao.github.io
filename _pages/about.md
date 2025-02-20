@@ -95,14 +95,33 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   
 - **2018, 2019** The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    <!-- 这里可以填充文本描述 -->
+  
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    <!-- 这里可以填充文本描述 -->
+    
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">2020</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    <!-- 这里可以填充文本描述 -->
+  </div>
+  
 </div>
-</div>
+
+<!-- Add a line break to separate content without affecting layout -->
+<br>
 
 
 # 📖 Educations
