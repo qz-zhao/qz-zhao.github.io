@@ -119,6 +119,8 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
    <!-- 这里可以填写有关此奖项的描述 -->
   </div>
 
+<br> <!-- 换行符号 -->
+
   <div class='paper-box-image'>
     <div>
       <div class="badge">2024 Award</div>
@@ -210,13 +212,13 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 # 📖 Pictures
 Here are some random pictures.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/ICOM_2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/ISOME_13.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/瑞华杯_2024.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/2024_GCB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/校长奖学金证书.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/ISOME_2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 <br> <!-- 换行符号 -->
