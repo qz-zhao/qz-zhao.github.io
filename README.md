@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Qingzhou Zhao
+Academic Personal Homepage
 </h1>
 
 <div align="center">
