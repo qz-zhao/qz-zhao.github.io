@@ -26,7 +26,7 @@ You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_C
 
 Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en)
 
-
+<br> <!-- 换行符号 -->
 
 # 🔥 News
 
@@ -42,7 +42,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   
 - *2020.06*: &nbsp;🎉🎉 Qingzhou was selected the "**Excellent Master's Thesis**" and "Excellent Graduate Student" in Nanjing Agricultural University.
   
-
+<br> <!-- 换行符号 -->
 
 # 📝 Publications 
 
@@ -73,7 +73,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   
 - Peng Wang, Yan Yang, Pu Mou, **Qingzhou Zhao**, Yunbin Li (**2018**) [Local root growth and death are mediated by contrasts in nutrient availability and root quantity between soil patches](https://doi.org/10.1098/rspb.2018.0699/). **Proceedings of the Royal Society B: Biological Sciences**. https://doi.org/10.1098/rspb.2018.0699
 
-
+<br> <!-- 换行符号 -->
 
 # 🏆 Honors and Awards
 
@@ -155,7 +155,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
   
 - ***2012.09 – 2016.09*** Bachelor of Science in Agriculture with a specialization in Plant Protection at Hainan University, College of Tropical Crops 
 
-
+<br> <!-- 换行符号 -->
 
 # 💻 Research Experiences
 - ***2022.09-2024.09*** Processing large-scale datasets from TRY, GBIF, GRooT and others using R, **Crowther Lab**, ETH Zurich, Switzerland
@@ -166,6 +166,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 
 
+<br> <!-- 换行符号 -->
 
 # 💬 Conference Talks
 
@@ -205,7 +206,7 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 </div>
   
 
-
+<br> <!-- 换行符号 -->
 
 # 📖 Pictures
 Here is some pictures.
