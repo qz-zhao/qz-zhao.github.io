@@ -19,9 +19,12 @@ redirect_from:
 
 # 💬 About Qingzhou
 
-I'm a PhD candidate in the Ecosystem Ecology lab at Nanjing Agricultural University in China, and a visiting PhD at [Crowther Lab](https://crowtherlab.com/) at ETH Zurich in Switzerland. I am very fortunate to be advised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) from China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. I received my MS degree in Ecosystem Ecology in 2020 from Nanjing Agricultural University. I am currently pursuing a PhD degree and plan to graduate in June 2025.
+I'm a PhD candidate in the Ecosystem Ecology lab at Nanjing Agricultural University in China, and a visiting PhD at [Crowther Lab](https://crowtherlab.com/) at ETH Zurich in Switzerland. I am very fortunate to be advised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) from China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. 
+
+I received my MS degree in Ecosystem Ecology in 2020 from Nanjing Agricultural University. I am currently pursuing a PhD degree and plan to graduate in June 2025.
  
-My research interest includes plant nutrient strategies, mycorrhizal fungal diversity, plant-soil interactions, and biodiversity-ecosystem functionality.
+My **research interest** includes plant nutrient strategies, mycorrhizal fungal diversity, plant-soil interactions, and biodiversity-ecosystem functionality.
+
 You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_CV_20250206.pdf).
 
 [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
@@ -210,19 +213,3 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 <br> <!-- 换行符号 -->
 
-# 📖 Pictures
-Here are some random pictures.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">001</div><img src='images/ICOM_2024.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">002</div><img src='images/瑞华杯_2024.jpg' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">003</div><img src='images/校长奖学金证书.jpg' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">004</div><img src='images/ISOME_2024.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">005</div><img src='images/ISOME_13.jpg' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">005</div><img src='images/微信图片_20241112154418.jpg' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<br> <!-- 换行符号 -->
