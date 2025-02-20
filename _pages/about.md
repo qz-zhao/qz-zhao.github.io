@@ -106,7 +106,24 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 - ***2012.09 – 2016.09*** Bachelor of Science in Agriculture with a specialization in Plant Protection at Hainan University, College of Tropical Crops 
 
 
+
+# 💻 Research Experiences
+- ***2022.09-2024.09*** Processing large-scale datasets from TRY, GBIF, GRooT and others using R, **Crowther Lab**, ETH Zurich, Switzerland
+  
+- ***2020.05-2022.09*** Utilizing stable isotopes to explore plant-soil C and N dynamics, **Qinghai-Tibet Plateau**, China
+  
+- ***2017.03-2022.09*** Physical & chemical analysis and application of cutting-edge scientific instruments (IRMS, ICP-OES, TOC analyzer, Elemental Analyzer, SEAL AA3, FTIR spectra, WinRHIZO), **Ecosystem Ecology Lab**, Nanjing Agricultural University, China
+
+
+
+
 # 💬 Conference Talks
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J.Ecol 2023</div><img src='images/2024_J.Ecol.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+***2024.12***, The 13th International Symposium On Modern Ecology (ISOME)，Yunnan, China
+</div>
+</div>
 - ***2024.12***, The 13th International Symposium On Modern Ecology (ISOME)，Yunnan, China
   
 - ***2024.08***, The 12th International Conference on Mycorrhizas (ICOM 12), Manchester, UK
@@ -116,17 +133,6 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 - ***2020.11***, The 19th China Conference on Ecology, Guangzhou & Online, China
   
 - ***2020.11***, The 6th International Symposium for Young Scholars in Terrestrial Ecology, Nanjing China
-
-
-
-# 💻 Research Experiences
-- ***2022.09-2024.09*** Processing large-scale datasets from TRY, GBIF, GRooT and others using R
-  
-- ***2020.05-2022.09*** Utilizing stable isotopes to explore plant-soil C and N dynamics
-  
-- ***2017.03-2022.09*** Physical & chemical analysis and application of cutting-edge scientific instruments (IRMS, ICP-OES, TOC analyzer, Elemental Analyzer, SEAL AA3, FTIR spectra, WinRHIZO)
-
-
 
 
 
