@@ -45,19 +45,17 @@ Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZB
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GCB 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GCB 2024</div><img src='images/2024-GCB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**[Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition](https://doi.org/10.1111/gcb.17547)**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qingzhou Zhao**,  Grégoire T. Freschet,  Tingting Tao,  Gabriel Reuben Smith,  Peng Wang,  Lingyan Hu,  Miaojun Ma,  David Johnson,  Thomas W. Crowther,  Shuijin Hu* (2024)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Zhao, Q., Freschet, G., Tao, T., Smith, G., Wang, P., Hu, L., Ma, M., Johnson, D., Crowther, T. and Hu, S. (2024), Resolving the Intricate Effects of Multiple Global Change Drivers on Root Litter Decomposition. Glob Change Biol, 30: e17547. https://doi.org/10.1111/gcb.17547
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
