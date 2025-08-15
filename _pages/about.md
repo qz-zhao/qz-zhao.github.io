@@ -25,7 +25,7 @@ I earned my **PhD in Ecology** in 2025 from Nanjing Agricultural University and 
 
 My **research interest** includes plant nutrient strategies, mycorrhizal fungi, plant-soil interactions, and biodiversity-ecosystem functionality.
 
-Here is my [Google Scholar](https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en) / [CV](../assets/Qingzhou_Zhao_CV_20250815.pdf) / [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
+Here is my [Google Scholar](https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en) / [CV](../assets/Qingzhou_Zhao_CV_202500815.pdf) / [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
 
 <br> <!-- 换行符号 -->
 
