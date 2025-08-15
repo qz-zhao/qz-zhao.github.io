@@ -97,7 +97,7 @@ Google Scholar:
   
 - **2019.09,**   Wu Yi-Wen Scholarship. Education Development Foundation of NAU (RMB 5,000)
   
-- **2018, 2019,** The First Prize Scholarship for Master Student. NAU (RMB 12,000 /year)
+- **2018, 2019,** The First Prize Scholarship for Master's Student. NAU (RMB 12,000 /year)
 
 <!-- 添加图片部分 -->
 <div class='paper-box'>
@@ -151,18 +151,18 @@ Google Scholar:
 
 # 📖 Educations
 
-- ***2020.09 – 2025.06 (now)*** PhD in Ecosystem Ecology, Nanjing Agricultural University, College of Resources and Environmental Sciences (Supervisor: [Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en))
+- ***2020.09 – 2025.06*** PhD in Ecology, Nanjing Agricultural University, College of Resources and Environmental Sciences (Supervisor: [Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en))
   
-- ***2022.09 – 2024.09*** Visiting PhD in Ecosystem Ecology, ETH Zürich, Department of Environmental Systems Science (Supervisor: [Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en))
+- ***2022.09 – 2024.09*** Joint PhD in Ecology, ETH Zürich, Department of Environmental Systems Science (Supervisor: [Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en))
   
-- ***2017.09 – 2020.09*** MSc in Ecosystem Ecology, Nanjing Agricultural University, College of Resources and Environmental Sciences (Supervisor: [Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en))
+- ***2017.09 – 2020.09*** MSc in Ecology, Nanjing Agricultural University, College of Resources and Environmental Sciences (Supervisor: [Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en))
   
 - ***2012.09 – 2016.09*** Bachelor of Science in Agriculture with a specialization in Plant Protection at Hainan University, College of Tropical Crops 
 
 <br> <!-- 换行符号 -->
 
 # 💻 Research Experiences
-- ***2022.09-2024.09*** Processing large-scale datasets from TRY, GBIF, GRooT and others using R, **Crowther Lab**, ETH Zurich, Switzerland
+- ***2022.09-2024.09*** Processing large-scale datasets from TRY, GBIF, GRooT using R, **Crowther Lab**, ETH Zurich, Switzerland
   
 - ***2020.05-2022.09*** Utilizing stable isotopes to explore plant-soil C and N dynamics, **Qinghai-Tibet Plateau**, China
   
