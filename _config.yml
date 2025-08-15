@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Qingzhou Zhao"
-description              : "Umeå University, Department of Ecology, Environment and Geoscience
-"
+description              : "Umeå University"
 repository               : "qz-zhao/qz-zhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,12 +24,13 @@ author:
   name             : "Qingzhou Zhao"
   avatar           : "images/512.512.jpg"
   bio              : "Exploring the hidden world: Root-fungal interactions in terrestrial ecosystems."
+  employer         : #"Umeå University"
   location         : "Umeå, Sweden"
-  employer         : "Umeå University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en"
   email            : "qz.zhao@njau.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Qingzhou-Zhao-2"
+  orcid            : "https://orcid.org/0000-0002-5425-137X"
   uri              :
   bitbucket        :
   codepen          :
@@ -46,7 +46,6 @@ author:
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/zqz/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-5425-137X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
