@@ -19,15 +19,15 @@ redirect_from:
 
 # 💬 About Qingzhou
 
-I'm a post-doctoral researcher on a Wallenberg-funded project with [Prof. David Wardle](https://scholar.google.com/citations?user=Nvu7BxYAAAAJ&hl=en) at the Department of Ecology, Environment and Geoscience at Umeå University in Sweden. I was honorably supervised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) at the Ecosystem Ecology lab in Nanjing Agricultural University in China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at the Global Ecosystem Ecology Lab in ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. 
+I'm a post-doctoral researcher on a Wallenberg-funded project with [Prof. David Wardle](https://scholar.google.com/citations?user=Nvu7BxYAAAAJ&hl=en) at the Department of Ecology, Environment and Geoscience at Umeå University in Sweden. I was honored to be supervised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) (Ecosystem Ecology Lab, Nanjing Agricultural University), [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) (Global Ecosystem Ecology Lab, ETH Zurich), and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) (Theoretical and Experimental Ecology Station, CNRS).
 
 I earned my **PhD in Ecology** in 2025 from Nanjing Agricultural University and ETH Zurich under a joint PhD program.
- 
+
 My **research interest** includes plant nutrient strategies, mycorrhizal fungai, plant-soil interactions, and biodiversity-ecosystem functionality.
 
-You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_CV_20250220.pdf). My [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
+You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_CV_20250815.pdf). My [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
 
-Google scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en)
+Google Scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en)
 
 <br> <!-- 换行符号 -->
 
