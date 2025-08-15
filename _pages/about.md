@@ -19,11 +19,11 @@ redirect_from:
 
 # 💬 About Qingzhou
 
-I'm a PhD candidate in the Ecosystem Ecology lab at Nanjing Agricultural University in China, and a visiting PhD at [Crowther Lab](https://crowtherlab.com/) at ETH Zurich in Switzerland. I am very fortunate to be advised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) from China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. 
+I'm a post-doctoral researcher on a Wallenberg-funded project with [Prof. David Wardle](https://scholar.google.com/citations?user=Nvu7BxYAAAAJ&hl=en) at the Department of Ecology, Environment and Geoscience at Umeå University in Sweden. I was honorably supervised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) at the Ecosystem Ecology lab in Nanjing Agricultural University in China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at the Global Ecosystem Ecology Lab in ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. 
 
-I received my MS degree in Ecosystem Ecology in 2020 at Nanjing Agricultural University. I am currently pursuing my PhD degree and plan to graduate in June 2025.
+I received my PhD degree in Ecology in 2025 from Nanjing Agricultural University and ETH Zurich under a joint PhD program.
  
-My **research interest** includes plant nutrient strategies, mycorrhizal fungal diversity, plant-soil interactions, and biodiversity-ecosystem functionality.
+My **research interest** includes plant nutrient strategies, mycorrhizal fungai, plant-soil interactions, and biodiversity-ecosystem functionality.
 
 You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_CV_20250220.pdf). My [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
 
