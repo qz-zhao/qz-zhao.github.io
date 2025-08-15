@@ -21,7 +21,7 @@ redirect_from:
 
 I'm a post-doctoral researcher on a Wallenberg-funded project with [Prof. David Wardle](https://scholar.google.com/citations?user=Nvu7BxYAAAAJ&hl=en) at the Department of Ecology, Environment and Geoscience at Umeå University in Sweden. I was honorably supervised by [Prof. Shuijin Hu](https://scholar.google.com/citations?user=8bpUWj0AAAAJ&hl=en) at the Ecosystem Ecology lab in Nanjing Agricultural University in China, [Prof. Thomas Crowther](https://scholar.google.com/citations?user=EYjCeRIAAAAJ&hl=en) at the Global Ecosystem Ecology Lab in ETH Zurich in Switzerland, and [Dr. Gregoire Freschet](https://scholar.google.com/citations?user=pTfaYxUAAAAJ&hl=en) from Theoretical and Experimental Ecology Station, CNRS. 
 
-I received my PhD degree in Ecology in 2025 from Nanjing Agricultural University and ETH Zurich under a joint PhD program.
+I earned my **PhD in Ecology** in 2025 from Nanjing Agricultural University and ETH Zurich under a joint PhD program.
  
 My **research interest** includes plant nutrient strategies, mycorrhizal fungai, plant-soil interactions, and biodiversity-ecosystem functionality.
 
