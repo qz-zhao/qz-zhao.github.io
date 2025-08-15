@@ -23,9 +23,9 @@ I'm a post-doctoral researcher on a Wallenberg-funded project with [Prof. David 
 
 I earned my **PhD in Ecology** in 2025 from Nanjing Agricultural University and ETH Zurich under a joint PhD program.
 
-My **research interest** includes plant nutrient strategies, mycorrhizal fungai, plant-soil interactions, and biodiversity-ecosystem functionality.
+My **research interest** includes plant nutrient strategies, mycorrhizal fungi, plant-soil interactions, and biodiversity-ecosystem functionality.
 
-You can find my CV here: [Qingzhou's Curriculum Vitae](../assets/Qingzhou_Zhao_CV_20250815.pdf). My [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
+You can find my [CV here](../assets/Qingzhou_Zhao_CV_20250815.pdf) / My [Email](mailto:qz.zhao@njau.edu.cn) / [Wechat](../images/Wechat.png) / [Linkedin](https://www.linkedin.com/in/zqz/)
 
 Google Scholar: [Qingzhou Zhao](https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en)
 
