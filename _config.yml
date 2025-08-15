@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Qingzhou Zhao"
-description              : "Nanjing Agricultural University"
+description              : "Umeå University, Department of Ecology, Environment and Geoscience
+"
 repository               : "qz-zhao/qz-zhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +24,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qingzhou Zhao"
   avatar           : "images/512.512.jpg"
-  bio              : "PhD candidate in Ecosystem Ecology"
-  location         : "Nanjing, China"
-  employer         :
+  bio              : "Exploring the hidden world: Root-fungal interactions in terrestrial ecosystems."
+  location         : "Umeå, Sweden"
+  employer         : "Umeå University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aQeMZBIAAAAJ&hl=en"
   email            : "qz.zhao@njau.edu.cn"
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/zqz/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-5425-137X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
